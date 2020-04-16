@@ -1,0 +1,29 @@
+#play{
+    -fx-background-image: url("../img/play.png");
+}
+
+#play:selected{
+    -fx-background-image: url("../img/pause.png");
+}
+
+#prev{
+    -fx-background-image: url("../img/prev.png");
+}
+
+#next{
+    -fx-background-image: url("../img/next.png");
+}
+
+.button,
+.toggle-button{
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 80% 80%;
+    -fx-background-color: transparent;
+    -fx-opacity: 60%;
+}
+
+.button:hover,
+.toggle-button:hover{
+    -fx-opacity: 100%;
+}
