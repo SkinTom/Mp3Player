@@ -9,7 +9,7 @@ Project created to learn new technologies
 ## Technologies ##
 Project is created with:
 - JavaFX 11.01
-- CSS 5
+- CSS3
 - Java ID3 Tag Library 0.5.4
 
 ## Installation ##
