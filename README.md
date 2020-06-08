@@ -1,5 +1,5 @@
 # MP3 PLayer #
-A simple mp3 player that lets you volume controls, pause song, scrolling a song and skip to the next song. 
+Application created as part of the Java course. A simple mp3 player that lets you volume controls, pause song, scrolling a song and skip to the next song. 
 Project created to learn new technologies
 
 ##  Screenshots ##
